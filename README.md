@@ -157,6 +157,9 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
+
+<img width="698" height="770" alt="image" src="https://github.com/user-attachments/assets/58eab6e9-ef07-40f2-b18e-c0b3146599b7" />
+
 <h2>PROGRAM:</h2>
 
 ``````
@@ -227,3 +230,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+<img width="641" height="500" alt="image" src="https://github.com/user-attachments/assets/f2149baa-f9db-43f6-83e6-bc3813531f73" />
+
